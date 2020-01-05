@@ -1,2 +1,2 @@
 # fec_analysis
-A collection of scripts &amp; data for analyzing individual contributor data from the FEC
+A collection of data scripts for analyzing FEC individual contribution data.
